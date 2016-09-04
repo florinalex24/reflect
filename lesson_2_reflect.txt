@@ -1,5 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 	- a file .git is created and this file is needed for the repository
 to comunicate with the branch
+
 How can you use the staging area to make sure you have one commit per logical change?
 	- using diff diff between the working directory and staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	- using branches is usefull when creating an experimental version of the application or maybe a new language for the app. Branches helps to separate those version from the original version, for example when you work on a app, you need to show the client a working version and still having another versions for experiments
